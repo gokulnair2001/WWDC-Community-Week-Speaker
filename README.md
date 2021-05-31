@@ -41,25 +41,6 @@ Justtry you best in which domain among the ones i told and give your best shot.
 
 6. How to keep your interest always onn!
 
-Being a part 
+I always get an question about how to maintain your interest into a domain. So what i wold suggest is keep on larning new stuffs, when you get stoped at any point dont leave it, take i as an challenge, but that doest mean you spend hours on solving it. Sometimes what happens is you will get burned out just make your mind chill, do something you enjoy then try to work on it again and i am sure you will be able to get it . This is what i follow.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+So ya this is my journey of being an iOS App Developer, you can always contact me to get your doubts solved or any suggestions. Thank you.
