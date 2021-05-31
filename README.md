@@ -8,11 +8,12 @@ Hi everyone, So my self Gokul R Nair a Computer Science student from India as we
 
 2. How I started ?
 
-So being an iOS App developer and a student people usually ask me how i started with swift, so if you would ask me then for me it was the event i mentioed before, but for students who dont have such events for them what i would suggest is get an course from any of the reputed edcutaional site. In my case i took the course of Angela Yu from udemy. Why i am suggesting to get an course is, courses usually make you eager to learn new chapters, if you would andomly search on Youtube or anywhere the flow wont be consistent so getting a course is highly prefferable. 
+So being an iOS App developer and a student people usually ask me how i started with swift, so if you would ask me then for me it was the event i mentioed before, but for students who dont have such events for them what i would suggest is get an course from any of the reputed edcutaional site. In my case i took the course of Angela Yu from udemy. Why i am suggesting to get an course is, courses usually make you eager to learn new chapters, if you would randomly search on Youtube or anywhere the flow wont be consistent so getting a course is highly prefferable. Once you feel you are able to make basic apps then you can go on with learning random videos, reading blogs, refering stackoverflow and etc. In the begiing itself if you would start with blogs and all you wont understand it properly and atlast you would end with copng codes. So its better to start with courses later on with blogs and random videos.
 
-Other than that YouTube is also there, now a days we have really good content creatore who make videos on iOS App Dev
+3. Project Experience
 
-5. Project Experience
-6. How i got into helping my club!
-7. Freelancing Journey
-8. How to keep your interest always onn!
+Now lets talk a lil about projects. Being a developer you must always try on making new things. Developing new stuffs would make you learn various new topics. In my two years of iOS app dev i have worked on 70+ small as well as major projetcs. Making projects made me to learn various new topics. What i would tell you is once you learn anew topic try to inculcate it in any of your project. Similarly when you go on learning new stuffs add those things in your ptoject and by this way you will make you core more stronger. Projects can be really small and really big it, but at last what you need is your concepts must be clear. So this will be my suggestions on project.
+
+7. How i got into helping my club!
+8. Freelancing Journey
+9. How to keep your interest always onn!
