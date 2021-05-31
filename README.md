@@ -24,9 +24,42 @@ Under that club i have made two apps one was a Recruitment Portal App where stud
 
 Lets get a lil bit into my freelancing journey.
 In my journey of iOS app dev i have made apps for 2-3 companies as a freelancer. Being a student getting an freelancing job is really hard. I have seen my friend working really hard to get a freelancing work. So i my case what worked was two most important things.
-      1. Networing 
-      2. Github
+     
+A. Networing 
+As we all know networing is realy imortant hwne you are in field if computer science. Networking with new peole really heps you to get new projetcs. So two of my freelancing work i got was due to my networks. Always try to connect with new people of your domain. Not oly in lure of projects but also to learn new stuffs.
+
+In my case i can give you a live example, So it was a noon hour when i was randomly going through app store and found agame called Sf Symbols and i used it and to be frank i found something missing in it. Just to check is that an pen source game i searched it on github and i was luck to find that it was an Open Source Project. Within seconds i forked the repo added a small feature which was haptic feedback and made a PR. And my PR was accepted within minutes and i was a successful contributor in that app . The main twist in that is the app which i am talking about was made by Rudrank with whom you just had a talk. After that i started following Rudrank and his blogs, must say they are really informative. Evem i have contacted him to get suggesting about one of my prject. 
+
+So ya what i want to say i make  your networks strong, that would always help you to develop yourself as a developer and you can alway leran new stuffs from the community.
+
+B. Github
+Make you github profile as ggod as possible and always try to make os contribution. In my case one of my freelancing work i got was due to my Github Profile and projects which i had. Always try to add your each ad every whether be small or big into github, you never know there are chances that someone would like your small projects too.
+
+So ya thses two things worked atleast for me to get freelancing works. Other than that what you can do is write blogs, help people on stackoverflow this things too works.
+
+Justtry you best in which domain among the ones i told and give your best shot.
+
+6. How to keep your interest always onn!
+
+Being a part 
 
 
 
-11. How to keep your interest always onn!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
