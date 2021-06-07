@@ -1,4 +1,4 @@
-# WWDC Community Week Keynote
+# WWDC Community Week Keynote 🎙
 ## Students Get To Gather
 
 Content:
@@ -6,7 +6,7 @@ Content:
 1. [Keynote Speech](https://drive.google.com/file/d/1h22aRLESerC-EkeO_jlcbjw2WhKcHhrg/view?usp=sharing)
 2. [Keynote Presentation](https://drive.google.com/file/d/1HLYCxqCYqjq3HzRSV9Yp-Wa_9FKzOiwa/view?usp=sharing)
 
-## Glimse of GTG
+## Glimse of GTG ⭐️
 
 ![E3Pc8KFWQAImmWK](https://user-images.githubusercontent.com/56252259/120973386-7cea2280-c78c-11eb-927a-a1b9f6a57367.jpeg)
 
